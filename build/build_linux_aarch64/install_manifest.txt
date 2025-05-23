@@ -1,0 +1,5 @@
+/home/orangepi/Desktop/Yolov10/install/rknn_yolov10_demo_Linux/./rknn_yolov10_demo
+/home/orangepi/Desktop/Yolov10/install/rknn_yolov10_demo_Linux/lib/librknnrt.so
+/home/orangepi/Desktop/Yolov10/install/rknn_yolov10_demo_Linux/lib/librga.so
+/home/orangepi/Desktop/Yolov10/install/rknn_yolov10_demo_Linux/model/RK3588/yolov10s-pre-trained.rknn
+/home/orangepi/Desktop/Yolov10/install/rknn_yolov10_demo_Linux/model/coco_80_labels_list.txt
